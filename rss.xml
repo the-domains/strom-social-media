@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Strom Social Media]]></title>
+        <description><![CDATA[Strom Social Media]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jul 2016 16:47:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best of CH 2015: Instagram]]></title>
+            <description><![CDATA[<article><h1>Best of CH 2015: Instagram</h1><p>Four and a half years ago we joined Instagram and have posted over 2,500 images since. More than 99% of the photographs we share, we ourselves have taken, and that's something we're quite proud of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba4db50512b8a051afebdafd36444e43d96e6161.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/culture/best-of-ch-2015-instagram</link>
+            <guid isPermaLink="false">a81fe8d2-0890-4ca5-bb6c-076775e745d8</guid>
+            <pubDate>Wed, 20 Jul 2016 16:47:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
